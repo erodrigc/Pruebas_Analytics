@@ -1,7 +1,11 @@
 Prueba 1: 9:22am
 
+<<<<<<< HEAD
 Prueba 2: 9:26am
 
 Prueba 3: 9:53am
 
 Prueba 4: 9:55am
+=======
+Prueba 2: 9:26am
+>>>>>>> parent of 4966153... Tercer Commit
